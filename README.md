@@ -53,3 +53,7 @@ Final Scores: F1: 0.766, mAP@[.5:.95]: 0.457, Metric: 0.616
 Clone the repository: sh $ git clone https://github.com/YashK2803/WeedDetection_57.git $ cd WeedDetection_57
 
 Install dependencies: sh $ pip install -r requirements.tx
+# Results & Insights
+- Best approach: Pseudo-Labeling Approach 1 due to its better utilization of unlabeled data.
+- Challenges: Data augmentation was not effective due to similarities in labeled and test images.
+- Future Work: Implement advanced self-training techniques and refine augmentation strategies
