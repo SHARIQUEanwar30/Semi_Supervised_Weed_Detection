@@ -43,12 +43,12 @@ Computationally expensive with lower performance.
 Final Scores: F1: 0.766, mAP@[.5:.95]: 0.457, Metric: 0.616
 # Installation & Setup
 ## Prerequisites
-Python 3.8+
-PyTorch
-Ultralytics YOLOv8
-OpenCV
-NumPy
-Matplotlib
+  Python 3.8+
+  PyTorch
+  Ultralytics YOLOv8
+  OpenCV
+  NumPy
+  Matplotlib
 ## Installation
 Clone the repository: sh $ git clone https://github.com/YashK2803/WeedDetection_57.git $ cd WeedDetection_57
 
