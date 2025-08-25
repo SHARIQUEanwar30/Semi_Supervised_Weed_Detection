@@ -42,3 +42,4 @@ Utilizes student-teacher framework with exponential moving averages.
 Computationally expensive with lower performance.
 Final Scores: F1: 0.766, mAP@[.5:.95]: 0.457, Metric: 0.616
 # Installation & Setup
+## Prerequisites
